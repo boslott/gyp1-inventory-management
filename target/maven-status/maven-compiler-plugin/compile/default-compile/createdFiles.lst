@@ -1,0 +1,14 @@
+bo/model/Product.class
+bo/model/InHouse.class
+bo/model/Inventory$1.class
+bo/controller/PartsWindowController.class
+bo/controller/FirstWindowController.class
+bo/model/Part.class
+bo/controller/ModifyProductController.class
+bo/model/Inventory.class
+bo/model/Outsourced.class
+bo/controller/ModifyPartController.class
+module-info.class
+bo/controller/ProductsWindowController.class
+bo/controller/App.class
+bo/model/Inventory$2.class
